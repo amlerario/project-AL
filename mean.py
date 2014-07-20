@@ -10,3 +10,4 @@ for num in open('data.txt'): #open as existing file directely
 	i += 1 ### changed the name of this variable too
 
 print addition/i ### upfdated with the new variables
+#nice job!!
