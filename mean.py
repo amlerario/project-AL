@@ -5,7 +5,7 @@ n=0
 # sum input values
 # modify the variable name
 # adding comments just to test
-for num in sys.stdin:
+for num in open('data.txt'): #open as existing file directely
 	sum += float(num)
 	n += 1
 
