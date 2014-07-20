@@ -4,6 +4,7 @@ n=0
 
 # sum input values
 # modify the variable name
+# adding comments just to test
 for num in sys.stdin:
 	sum += float(num)
 	n += 1
